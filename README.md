@@ -3,5 +3,5 @@
 Flutter project on People List UI
 
 ## Screenshots
-
-![alt text](https://i.imgur.com/o6TBMSq.png = 72*180)
+<a href="https://imgur.com/o6TBMSq"><img src="https://i.imgur.com/o6TBMSq.png" title="source: imgur.com" /></a>
+![alt text](https://i.imgur.com/o6TBMSq.png)
