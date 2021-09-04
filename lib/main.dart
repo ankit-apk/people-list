@@ -9,6 +9,7 @@ void main() {
   runApp(MyApp());
 }
 
+// ignore: must_be_immutable
 class MyApp extends StatelessWidget {
   PeopleController _peopleController = Get.put(PeopleController());
   @override
