@@ -1,4 +1,4 @@
-# az_tech
+# Peoples Perfect
 
 Flutter project on People List UI with Search Filter according to age and interests.
 
